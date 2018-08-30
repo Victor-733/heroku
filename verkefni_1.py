@@ -1,8 +1,3 @@
-"""
-Victor Wahid Ívarsson
-1611012220
-Verkefni 1
-"""
 from sys import argv
 from bottle import route, run
 
