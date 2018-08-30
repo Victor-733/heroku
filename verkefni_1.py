@@ -22,4 +22,4 @@ def jobs():
 def jobs():
     return "Hér eru myndir af Stefán Vinnumann"
 
-run(host='localhost', port=argv[1])
+run(host='0.0.0.0', port=argv[1])
